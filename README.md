@@ -24,12 +24,13 @@ A single-page application that meets PWA criteria's. This application is functio
 To install necessary dependencies, run the following command:
 
 ```
-npm install          npm build
+npm install         
+npm run build
 ```
 
 ## Usage
 
-demo
+![image](https://user-images.githubusercontent.com/87666809/153778482-2d062a54-356a-4897-9ec1-984258772128.png)
   
 ## Contributing
 
