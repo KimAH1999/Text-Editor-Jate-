@@ -30,6 +30,8 @@ npm run build
 
 ## Usage
 
+Deploy Heroku link: https://texteditor-pwa.herokuapp.com/
+
 ![image](https://user-images.githubusercontent.com/87666809/153778482-2d062a54-356a-4897-9ec1-984258772128.png)
   
 ## Contributing
